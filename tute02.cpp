@@ -19,7 +19,7 @@ int main()
    double salary, netSalary;
    int etype, otHrs, otRate;
    
-   cout << "Enter Employee Type : ";
+   cout << "Enter Employee Type : " ;
    cin >> etype;
    cout <<"Enter Salary  : ";
    cin >> salary;
