@@ -17,7 +17,7 @@ long nCr(int n, int r);
 
 int main() {
   int n, r;
-  cout << "Enter a value for n :";
+  cout << "Enter a value for n :" ;
   cin >> n;
 
   cout << "Enter a value for r : ";
